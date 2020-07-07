@@ -77,8 +77,8 @@ let footer = $(`
 		<div class="social-media">
 		  <a class="fa fa-twitter"  href="#"></a>
 		  <a class="fa fa-instagram" href="https://www.instagram.com/girlscript_jammu_and_kashmir/"></a>
-		  <a class="fa fa-github" href="https://www.linkedin.com/in/girlscript-jammu-and-kashmir-934826193/"></a>
-		  <a class="fa fa-linkedin" href="https://github.com/GirlScript-Jammu-kashmir"></a>
+		  <a class="fa fa-github" href="https://github.com/GirlScript-Jammu-kashmir"></a>
+		  <a class="fa fa-linkedin" href="https://www.linkedin.com/in/girlscript-jammu-and-kashmir-934826193/"></a>
 		</div>
 		  <h6 class="footer-h3">Made with ♥</h6>
 	</center>
